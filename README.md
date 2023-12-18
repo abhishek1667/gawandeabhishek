@@ -1,6 +1,6 @@
 [![MasterHead](banner.jpg)](https://abhishekgawande.in)
 
-<h1 align="center">Hi there 👋, I'm Abhishek Gawande</h1>
+<h1 align="center" width="100%" height="10%">Hi there 👋, I'm Abhishek Gawande</h1>
 <h3 align="center">Architecting the Digital Future: The Full Stack Maestro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawandeabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="gawandeabhishek" /> </p>
