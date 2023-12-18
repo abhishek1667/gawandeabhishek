@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](banner.jpg)](https://abhishekgawande.in)
 
 <h1 align="center">Hi there 👋, I'm Abhishek Gawande</h1>
 <h3 align="center">Architecting the Digital Future: The Full Stack Maestro</h3>
